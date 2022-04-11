@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mickael.tharaud@sfr.fr
+	name = Mickael Tharaud
